@@ -222,3 +222,32 @@ Dosen Pengampu : Donny Maulana, S.Kom, M.Kom
                   builder.show();
               }
           }
+
+# Hasil Run
+Untuk run app ini saya menggunakan genymotion. berikut adalah tampilan dari aplikasi yang telah saya buat:
+
+![Screenshot 2023-10-31 225702](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/acca3668-2717-4101-8580-a7d5a161f0be)
+
+![Screenshot 2023-10-31 225702](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/d252ed52-3424-4f44-bb19-50f48e4ac784)
+
+![Screenshot 2023-10-31 225806](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/5f7fb0af-c185-4985-a8d1-6e572805b4fb)
+
+![Screenshot 2023-10-31 225823](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/ea4996c0-48fa-4ef8-b973-3c0dbc7bb29a)
+
+![Screenshot 2023-10-31 225836](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/f01c87dc-feaa-41b1-bf99-9684267b3abc)
+
+![Screenshot 2023-10-31 225855](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/f0c5e10b-d46b-4831-9780-4c36e1351425)
+
+![Screenshot 2023-10-31 225908](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/a33b9055-c25e-4222-a7fe-ff2afb2bd17e)
+
+![Screenshot 2023-10-31 225929](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/a265661a-f743-48f6-804b-83b9701ac4ca)
+
+![Screenshot 2023-10-31 225946](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/8beb9acf-6d35-4864-9348-856a09850d3b)
+
+![Screenshot 2023-10-31 225958](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/17d3bb85-9818-4429-97ac-c9d13193f38a)
+
+![Screenshot 2023-10-31 230011](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/82b50b95-527f-440c-8a53-158d58b88ef4)
+
+![Screenshot 2023-10-31 230024](https://github.com/amandaaaapn/ProjectFibonacci/assets/115678845/8acf6029-9a11-49dd-9278-047121324ca3)
+
+# Sekian, Terima Kasih.
